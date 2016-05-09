@@ -1,4 +1,9 @@
-﻿using System;
+/*
+Icons by Icons8 (https://icons8.com/)
+
+*/
+
+using System;
 using Android.App;
 using Android.Widget;
 using Android.OS;
